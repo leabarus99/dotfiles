@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = lea.barus31@gmail.com
+	name = Lea Barus
